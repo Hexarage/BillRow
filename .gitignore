@@ -1,8 +1,0 @@
-**Makefile
-**/bin
-**/CMakeFiles
-**/*.cmake
-CMakeCache.txt
-_deps/
-docs/
-**/lib
